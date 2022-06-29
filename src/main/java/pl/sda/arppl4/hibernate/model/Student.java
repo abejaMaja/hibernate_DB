@@ -1,4 +1,4 @@
-package pl.sda.arppl4.hibernate;
+package pl.sda.arppl4.hibernate.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
